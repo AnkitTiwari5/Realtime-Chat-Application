@@ -1,5 +1,6 @@
 # Realtime-Chat-Application
-Realtime Chat Application Using NodeJs and SocketIO
+
+Realtime Chat App Using NodeJs and SocketIO
 
 Use command npm i socket.io to install socket.io
 
